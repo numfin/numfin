@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**numfin/numfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is **Sasha**. My hobby is making apps and constantly trying new things. Working in different companies, I was developing **front-end/back-end** applications on **nodejs/rust**, setting up **CI/CD**, and also promoted **DevOps** culture within the company.
 
-Here are some ideas to get you started:
+My Experience (current stack is **bold**):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: JS/TS, Wasm(Rust), **SolidJS** (also vue, svelte, react, qwik)
+- **Backend**: **Rust**, NodeJS, SQL (postgres), NoSQL (mongodb, firestore, elasticsearch, redis)
+- **CI/CD**: Docker, **k8s**, Github/Gitlab Actions, Google Cloud
+- **Design**: Figma, AdobeXD
+- **Language**: Russian, English (B1)
+
+I know how to read docs, listen and explain
+
+Interested in creating something new and weird all the time
