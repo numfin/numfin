@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-> My name is **Sasha**. My hobby is making apps and constantly trying new things. Working in different companies, I was developing **front-end/back-end** applications on **nodejs/rust**, setting up **CI/CD**, and also promoted **DevOps** culture within the company.
+> My name is **Sasha**. My hobby is making apps and constantly trying new things.
+>
+> I have experience in developing **front-end/back-end** applications with **nodejs/rust**.
 
 My Experience (current stack is **bold**):
 
